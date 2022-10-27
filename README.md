@@ -1,2 +1,2 @@
 # SparseArrayAntennaSpacing
-This code is for calculate your antenna array spacing to receive low Side Lobe Level and reducing the number of array
+This code is for calculate your antenna array spacing using chebyshev to receive low Side Lobe Level and decrease the number of array
